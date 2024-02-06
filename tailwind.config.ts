@@ -6,8 +6,8 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        purple: '#8257e6'
+      gridTemplateColumns: {
+        app: 'minmax(18rem, 20rem) 1fr',
       },
     },
   },
